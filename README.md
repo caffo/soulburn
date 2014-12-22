@@ -1,6 +1,6 @@
 # Soulburn Color Scheme for Sublime Text
 
-Easy on eyes sublime theme. A mix between [zenburn](https://github.com/jnurmine/Zenburn) and [seoul256](https://github.com/junegunn/seoul256.vim) and my own opinions.
+Easy on eyes sublime theme. Mixing [zenburn](https://github.com/jnurmine/Zenburn), [seoul256](https://github.com/junegunn/seoul256.vim) and my own opinions.
 
 ## Screenshot
 
