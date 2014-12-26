@@ -723,14 +723,18 @@
                 <string>#DEBB77</string>
             </dict>
         </dict>
-
-
-
+        <dict>
+        <key>name</key>
+        <string>Embedded</string>
+        <key>scope</key>
+        <string>punctuation.section.embedded, variable.interpolation</string>
+        <key>settings</key>
+        <dict>
+          <key>foreground</key>
+          <string>#707070</string>
+        </dict>
+      </dict>
   <dict>
-
-
-
-
             <key>name</key>
             <string>SublimeLinter Error</string>
             <key>scope</key>
